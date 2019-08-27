@@ -26,7 +26,7 @@
           <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#awards">Extra-curricular</a>
+          <a class="nav-link js-scroll-trigger" href="#extracurricular">Extra-curricular</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
@@ -166,7 +166,7 @@
 
     <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="extracurricular">
       <div class="w-100">
         <h2 class="mb-5">Extra-curricular</h2>
         <ul class="fa-ul mb-0">
